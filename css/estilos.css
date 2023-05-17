@@ -3,5 +3,9 @@ p {
 }
 
 body {
-    background-color: rgb(230, 29, 29);
+    background-color: rgb(42, 44, 53);
+}
+
+h1, h2, h3 {
+ color: rgb(198, 164, 230);   
 }
